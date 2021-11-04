@@ -1,0 +1,15 @@
+{
+  "domain": "nissan_connect",
+  "name": "Nissan Connect",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/nissan_connect",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@bakerlee"
+  ],
+  "iot_class": "assumed_state"
+}
